@@ -11,3 +11,4 @@ Common Git Commands
 6) git branch                           // Displays the current branch name    
 7) git branch branchName                // Creates the branch 
 8) git merge branchName                 // Does a git merge 
+
